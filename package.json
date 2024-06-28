@@ -27,7 +27,7 @@
     "ts-loader": "^9.4.4",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
-    "ava": "^5.3.1",
+    "ava": "^6.0.0",
     "proxy": "^2.1.1"
   },
   "scripts": {
