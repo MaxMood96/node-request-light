@@ -30,9 +30,9 @@
     "typescript": "^5.8.3",
     "@types/node": "18.x",
     "vscode-jsonrpc": "^8.2.1",
-    "rimraf": "^6.0.1",
+    "rimraf": "^6.1.1",
     "ts-loader": "^9.5.2",
-    "webpack": "^5.99.9",
+    "webpack": "^5.104.1",
     "webpack-cli": "^6.0.1",
     "ava": "^6.4.0",
     "proxy": "^2.2.0"
